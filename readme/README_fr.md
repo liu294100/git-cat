@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/gitcat.png" width="128" alt="GitCat"></p>
+<p align="center"><img src="../assets/gitcat.png" width="128" alt="GitCat"></p>
 
 <h1 align="center">GitCat</h1>
 
 <p align="center">Un client Git de bureau rapide pour Windows et macOS, compatible avec GitHub, GitLab, Gitee, Gitea, Bitbucket, Azure DevOps et tout autre hébergeur git.</p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <b>Français</b> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <b>Français</b> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
 
 ## Fonctionnalités
 
@@ -100,4 +100,4 @@ python scripts/generate_icons.py    # régénérer assets/ (nécessite Pillow)
 
 Fichier de configuration : `%APPDATA%\GitCat\config.json` (Windows), `~/Library/Application Support/GitCat/config.json` (macOS).
 
-L'historique des versions se trouve dans [CHANGELOG.md](CHANGELOG.md) (en anglais).
+L'historique des versions se trouve dans [CHANGELOG.md](../CHANGELOG.md) (en anglais).

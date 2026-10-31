@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/gitcat.png" width="128" alt="GitCat"></p>
+<p align="center"><img src="../assets/gitcat.png" width="128" alt="GitCat"></p>
 
 <h1 align="center">GitCat</h1>
 
 <p align="center">Windows와 macOS용 빠른 Git 데스크톱 클라이언트. GitHub, GitLab, Gitee, Gitea, Bitbucket, Azure DevOps 및 모든 git 호스트를 지원합니다.</p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <b>한국어</b> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <b>한국어</b> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
 
 ## 기능
 
@@ -99,4 +99,4 @@ python scripts/generate_icons.py    # assets/ 재생성(Pillow 필요)
 
 설정 파일: `%APPDATA%\GitCat\config.json`(Windows), `~/Library/Application Support/GitCat/config.json`(macOS).
 
-변경 기록은 [CHANGELOG.md](CHANGELOG.md)(영어)를 참고하세요.
+변경 기록은 [CHANGELOG.md](../CHANGELOG.md)(영어)를 참고하세요.

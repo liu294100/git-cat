@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/gitcat.png" width="128" alt="GitCat"></p>
+<p align="center"><img src="../assets/gitcat.png" width="128" alt="GitCat"></p>
 
 <h1 align="center">GitCat</h1>
 
 <p align="center">Klien Git desktop yang pantas untuk Windows dan macOS, berfungsi dengan GitHub, GitLab, Gitee, Gitea, Bitbucket, Azure DevOps dan mana-mana hos git lain.</p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <b>Bahasa Melayu</b> · <a href="README_ru.md">Русский</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <b>Bahasa Melayu</b> · <a href="README_ru.md">Русский</a></p>
 
 ## Ciri-ciri
 
@@ -99,4 +99,4 @@ python scripts/generate_icons.py    # jana semula assets/ (memerlukan Pillow)
 
 Fail konfigurasi: `%APPDATA%\GitCat\config.json` (Windows), `~/Library/Application Support/GitCat/config.json` (macOS).
 
-Sejarah keluaran ada dalam [CHANGELOG.md](CHANGELOG.md) (bahasa Inggeris).
+Sejarah keluaran ada dalam [CHANGELOG.md](../CHANGELOG.md) (bahasa Inggeris).

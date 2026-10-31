@@ -4,7 +4,7 @@
 
 <p align="center">A fast Git desktop client for Windows and macOS that works with GitHub, GitLab, Gitee, Gitea, Bitbucket, Azure DevOps and any other git host.</p>
 
-<p align="center"><b>English</b> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <a href="README_th.md">ไทย</a> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
+<p align="center"><b>English</b> · <a href="readme/README_zh.md">简体中文</a> · <a href="readme/README_ja.md">日本語</a> · <a href="readme/README_ko.md">한국어</a> · <a href="readme/README_fr.md">Français</a> · <a href="readme/README_es.md">Español</a> · <a href="readme/README_pt.md">Português</a> · <a href="readme/README_th.md">ไทย</a> · <a href="readme/README_ms.md">Bahasa Melayu</a> · <a href="readme/README_ru.md">Русский</a></p>
 
 ## Features
 

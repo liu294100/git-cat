@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/gitcat.png" width="128" alt="GitCat"></p>
+<p align="center"><img src="../assets/gitcat.png" width="128" alt="GitCat"></p>
 
 <h1 align="center">GitCat</h1>
 
 <p align="center">ไคลเอนต์ Git บนเดสก์ท็อปที่รวดเร็วสำหรับ Windows และ macOS รองรับ GitHub, GitLab, Gitee, Gitea, Bitbucket, Azure DevOps และโฮสต์ git อื่นๆ ทั้งหมด</p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <b>ไทย</b> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="README_zh.md">简体中文</a> · <a href="README_ja.md">日本語</a> · <a href="README_ko.md">한국어</a> · <a href="README_fr.md">Français</a> · <a href="README_es.md">Español</a> · <a href="README_pt.md">Português</a> · <b>ไทย</b> · <a href="README_ms.md">Bahasa Melayu</a> · <a href="README_ru.md">Русский</a></p>
 
 ## ความสามารถ
 
@@ -99,4 +99,4 @@ python scripts/generate_icons.py    # สร้าง assets/ ใหม่ (ต�
 
 ไฟล์ตั้งค่า: `%APPDATA%\GitCat\config.json` (Windows), `~/Library/Application Support/GitCat/config.json` (macOS)
 
-ดูประวัติเวอร์ชันได้ที่ [CHANGELOG.md](CHANGELOG.md) (ภาษาอังกฤษ)
+ดูประวัติเวอร์ชันได้ที่ [CHANGELOG.md](../CHANGELOG.md) (ภาษาอังกฤษ)
